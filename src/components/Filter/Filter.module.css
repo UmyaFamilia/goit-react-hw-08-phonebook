@@ -1,0 +1,9 @@
+.filterCover {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.inpute {
+  margin: 20px 0;
+}

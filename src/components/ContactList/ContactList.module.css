@@ -1,0 +1,27 @@
+.findCover {
+  display: flex;
+  flex-direction: column;
+}
+.inpute {
+  margin-bottom: 30px;
+}
+
+.button {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 8px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  border-radius: 13px;
+  margin-left: 12px;
+  transition-duration: 0.4s;
+}
+.button:hover {
+  background-color: #fc012a;
+}
+.number:not(:last-child) {
+  margin-bottom: 12px;
+}
