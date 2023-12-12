@@ -1,6 +1,6 @@
 import css from './Filter.module.css';
 import { useDispatch } from 'react-redux';
-import { findNecessary } from '../redux/reduseContact';
+import { findNecessary } from '../../redux/reduseContact';
 export const Filter = () => {
   const dispatch = useDispatch();
   const find = ({ target: { value } }) => {

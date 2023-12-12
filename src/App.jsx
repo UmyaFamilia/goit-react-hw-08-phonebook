@@ -1,7 +1,7 @@
-import { ContactList } from './ContactList/ContactLIst';
+import { ContactList } from './components/ContactList/ContactLIst';
 
-import { Form } from './Form/Form';
-import { Filter } from './Filter/Filter';
+import { Form } from './components/Form/Form';
+import { Filter } from './components/Filter/Filter';
 
 export function App() {
   return (
